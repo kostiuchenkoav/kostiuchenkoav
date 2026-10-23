@@ -4,9 +4,9 @@ IT-поддержка и разработка. Работаю с техподд�
 
 **Стек и инструменты**
 
-- Linux, nginx, TLS/OpenSSL, Docker, docker compose
+- Linux, Docker, Docker Compose
 - Python, SQL, Java (Spring Boot), C++ (Qt 6)
-- Git, GitHub Actions, Dependabot
+- Git, GitHub Actions
 
 **Проекты**
 
